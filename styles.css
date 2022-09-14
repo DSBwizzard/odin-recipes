@@ -1,0 +1,20 @@
+.recipelist {
+    text-align: center;
+}
+
+.recipebullet {
+    background-color: darkslategray;
+    color: orange;
+
+}
+
+.hometitle {
+    background-color: red;
+    text-align: center;
+}
+
+.chef {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
