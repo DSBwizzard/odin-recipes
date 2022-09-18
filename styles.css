@@ -1,10 +1,13 @@
 .recipelist {
-    text-align: center;
+    display: table;
+    margin: 0 auto;
+    list-style-type: "\1F44D"; // thumbs up sign
 }
 
 .recipebullet {
-    background-color: darkslategray;
-    color: orange;
+    background-color: rgba(13, 160, 160, 0.322);
+    color: rgb(56, 150, 18);
+    font-size: 32px;
 
 }
 
