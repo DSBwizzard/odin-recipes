@@ -21,3 +21,16 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Begin css testing */
+
+.boxone {
+    background-color: pink;
+
+}
+
+.boxtwo {
+    background-color: aqua;
+
+}
+/* End css testing */
