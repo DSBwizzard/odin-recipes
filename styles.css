@@ -22,15 +22,41 @@
     margin-right: auto;
 }
 
-/* Begin css testing */
+.recipeimage {
+    height: 450px;
+    width: 450px;
+}
+
+/* Begin css testing
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
 .boxone {
     background-color: pink;
-
+    height: 65px;
+    width: 75px;
+    border: 40px solid purple;
+    padding: 45px;
+    margin: 35px;
 }
 
 .boxtwo {
     background-color: aqua;
-
+    border: 0 solid rgb(130, 233, 130);
+    display: inline;
 }
-/* End css testing */
+
+.givemargins {
+    margin: 300px;
+}
+
+.threebutton {
+    padding: 40px;
+    background-color: brown;
+    border-radius: 30px;
+}
+End css testing */
