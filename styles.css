@@ -1,7 +1,7 @@
 .masterlist {
     display: table;
     margin: 0 auto;
-    list-style-type: "\1F44D"; // thumbs up sign
+    list-style-type: "\1F44D"; /*thumbs up sign*/
 }
 
 .recipebullet {
