@@ -1,1 +1,2 @@
-# odin-recipes
+This project is to create a simple recipe list website. I have currently learned how to use basic commandline commands,
+git and github, as well as basic HTML structure. This will help demonstrate those skills.
